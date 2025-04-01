@@ -1,0 +1,109 @@
+body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+}
+
+.word,
+.chinese,
+.phrase {
+    display: inline-block;
+}
+
+.word-card,
+.phrase-card {
+    padding: 1rem;
+    margin: 1rem 0;
+    border-left: 4px solid #3498db;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pronunciation {
+    cursor: pointer;
+    color: #3498db;
+    margin-left: 10px;
+    font-size: 0.9em;
+}
+
+.example {
+    color: #666;
+    margin-left: 20px;
+    font-style: italic;
+}
+
+.review-plan {
+    background: #e3f2fd;
+    padding: 15px;
+    border-left: 4px solid #2196F3;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.daily-section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.date-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+
+
+.pronunciation {
+    cursor: pointer;
+    color: #e74c3c;
+    margin-left: 0.5rem;
+}
+.filter-container {
+    position:sticky;
+    top:0;
+    padding: 1rem;
+    background: #f8f9fa;
+    margin: 1rem 0;
+    border-radius: 8px;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.toggle-icon {
+    cursor: pointer;
+    margin-right: 0.5rem;
+    transition: transform 0.2s;
+}
+
+.daily-section.collapsed .words-container,
+.daily-section.collapsed .phrases-container,
+.daily-section.collapsed .review-plan {
+    display: none;
+}
+
+.toggle-btn {
+    padding: 0.5rem 1rem;
+    background: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.toggle-btn:hover {
+    background: #2980b9;
+}

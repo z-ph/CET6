@@ -1,0 +1,127 @@
+{
+    "title": "六级词汇",
+    "CET6": [
+        {
+            "time": "2025-04-01",
+            "words": [
+                {
+                    "word": "aberration",
+                    "pronounciation": "ˌæbəˈreɪʃn",
+                    "chineseMeaning": "偏离，异常",
+                    "example": "The sudden snowstorm in May was an aberration from the normal weather pattern."
+                },
+                {
+                    "word": "debilitate",
+                    "pronounciation": "dɪˈbɪlɪteɪt",
+                    "chineseMeaning": "使衰弱",
+                    "example": "The tropical disease can debilitate patients for weeks."
+                },
+                {
+                    "word": "ephemeral",
+                    "pronounciation": "ɪˈfemərəl",
+                    "chineseMeaning": "短暂的",
+                    "example": "Social media trends are often ephemeral in nature."
+                },
+                {
+                    "word": "facetious",
+                    "pronounciation": "fəˈsiːʃəs",
+                    "chineseMeaning": "开玩笑的",
+                    "example": "His facetious remarks were inappropriate for the formal meeting."
+                },
+                {
+                    "word": "gregarious",
+                    "pronounciation": "ɡrɪˈɡeriəs",
+                    "chineseMeaning": "社交的",
+                    "example": "Dolphins are known for their gregarious nature."
+                },
+                {
+                    "word": "harbinger",
+                    "pronounciation": "ˈhɑːrbɪndʒər",
+                    "chineseMeaning": "先驱",
+                    "example": "The first robin is considered a harbinger of spring."
+                },
+                {
+                    "word": "iconoclast",
+                    "pronounciation": "aɪˈkɑːnəklæst",
+                    "chineseMeaning": "反传统者",
+                    "example": "The artist was an iconoclast who rejected conventional styles."
+                },
+                {
+                    "word": "jubilation",
+                    "pronounciation": "ˌdʒuːbɪˈleɪʃn",
+                    "chineseMeaning": "欢庆",
+                    "example": "The streets were filled with jubilation after the victory."
+                },
+                {
+                    "word": "kaleidoscopic",
+                    "pronounciation": "kəˌlaɪdəˈskɑːpɪk",
+                    "chineseMeaning": "千变万化的",
+                    "example": "The festival showcased a kaleidoscopic array of cultural performances."
+                },
+                {
+                    "word": "laconic",
+                    "pronounciation": "ləˈkɑːnɪk",
+                    "chineseMeaning": "简洁的",
+                    "example": "His laconic reply left everyone wanting more details."
+                },
+                {
+                    "word": "mendacious",
+                    "pronounciation": "menˈdeɪʃəs",
+                    "chineseMeaning": "说谎的",
+                    "example": "The mendacious advertisement misled consumers."
+                },
+                {
+                    "word": "nefarious",
+                    "pronounciation": "nɪˈferiəs",
+                    "chineseMeaning": "邪恶的",
+                    "example": "The novel revolves around a nefarious plot to overthrow the government."
+                },
+                {
+                    "word": "ostentatious",
+                    "pronounciation": "ˌɑːstənˈteɪʃəs",
+                    "chineseMeaning": "炫耀的",
+                    "example": "Her ostentatious display of wealth made others uncomfortable."
+                },
+                {
+                    "word": "vexatious",
+                    "pronounciation": "vekˈseɪʃəs",
+                    "chineseMeaning": "令人烦恼的",
+                    "example": "The vexatious legal proceedings drained their financial resources."
+                },
+                {
+                    "word": "zeitgeist",
+                    "pronounciation": "ˈzaɪtɡaɪst",
+                    "chineseMeaning": "时代精神",
+                    "example": "The film perfectly captured the zeitgeist of the Roaring Twenties."
+                }
+            ],
+            "phrases": [
+                {
+                    "phrase": "a moot point",
+                    "chineseMeaning": "有争议的问题",
+                    "example": "Whether robots can replace teachers is a moot point among educators."
+                },
+                {
+                    "phrase": "in dire straits",
+                    "chineseMeaning": "处于困境",
+                    "example": "The tourism industry was in dire straits during the pandemic."
+                },
+                {
+                    "phrase": "play fast and loose",
+                    "chineseMeaning": "不守规则",
+                    "example": "Companies that play fast and loose with regulations often face consequences."
+                },
+                {
+                    "phrase": "the crux of the matter",
+                    "chineseMeaning": "问题的关键",
+                    "example": "Let's get to the crux of the matter - who will fund this project?"
+                },
+                {
+                    "phrase": "throw caution to the wind",
+                    "chineseMeaning": "不顾一切",
+                    "example": "She decided to throw caution to the wind and start her own business."
+                }
+            ]
+        }
+    ]
+}
