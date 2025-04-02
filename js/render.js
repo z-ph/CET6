@@ -154,6 +154,7 @@ function createWordCard(word, index) {
             <p class="chinese"><em>${word.chineseMeaning}</em></p>
         </div>
         <p class="example">${highlightKeyword(word.example, word.word)}</p>
+        <p class="chinese"><em>${word.chineseOfExample}</em></p>
     </div>`;
 }
 
@@ -167,6 +168,7 @@ function createPhraseCard(phrase, index) {
             <p class="chinese"><em>${phrase.chineseMeaning}</em></p>
         </div>
         <p class="example">${highlightKeyword(phrase.example, phrase.phrase)}</p>
+        <p class="chinese"><em>${phrase.chineseOfExample}</em></p>
     </div>`;
 }
 
