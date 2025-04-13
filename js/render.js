@@ -18,7 +18,7 @@ async function loadAndRenderData() {
     try {
         const response = await fetch('./json/words.json');
         const data = await response.json();
-        const sortedData = data.CET6.sort((a, b) =>
+        const sortedData = data.tem4.sort((a, b) =>
             new Date(b.time) - new Date(a.time));
 
         // 添加筛选控件
@@ -110,11 +110,13 @@ function renderDailyContents(dataList) {
 }
 
 function createDailySection(dayData) {
+    const tag = dayData.tag ? dayData.tag : '无';
     const section = document.createElement('section');
     section.className = 'daily-section';
     section.innerHTML = `
         <div class="date-header">
             <h2>📅 ${dayData.time}</h2>
+            <span class="tag">标签:${tag}</span>
             <span class="word-count">词汇 ${dayData.words.length} 个</span>
             <span class="phrase-count">短语 ${dayData.phrases.length} 个</span>
         </div>

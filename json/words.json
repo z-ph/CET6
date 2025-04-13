@@ -1,608 +1,633 @@
 {
-    "title": "六级词汇",
-    "CET6": [
+    "title": "专四词汇",
+    "tem4": [
         {
-            "time": "2025-04-02",
-            "words": [
-                {
-                    "word": "aberration",
-                    "pronounciation": "ˌæbəˈreɪʃn",
-                    "chineseMeaning": "偏离，异常",
-                    "example": "The sudden snowstorm in May was an aberration from the normal weather pattern.",
-                    "chineseOfExample": "五月的突然暴风雪是正常天气模式的异常。"
-                },
-                {
-                    "word": "debilitate",
-                    "pronounciation": "dɪˈbɪlɪteɪt",
-                    "chineseMeaning": "使衰弱",
-                    "example": "The tropical disease can debilitate patients for weeks.",
-                    "chineseOfExample": "热带疾病可以使患者虚弱数周。"
-                },
-                {
-                    "word": "ephemeral",
-                    "pronounciation": "ɪˈfemərəl",
-                    "chineseMeaning": "短暂的",
-                    "example": "Social media trends are often ephemeral in nature.",
-                    "chineseOfExample": "社交媒体趋势往往是短暂的。"
-                },
-                {
-                    "word": "facetious",
-                    "pronounciation": "fəˈsiːʃəs",
-                    "chineseMeaning": "开玩笑的",
-                    "example": "His facetious remarks were inappropriate for the formal meeting.",
-                    "chineseOfExample": "他开玩笑的言论在正式会议上不合适。"
-                },
-                {
-                    "word": "gregarious",
-                    "pronounciation": "ɡrɪˈɡeriəs",
-                    "chineseMeaning": "社交的",
-                    "example": "Dolphins are known for their gregarious nature.",
-                    "chineseOfExample": "海豚以其社交性而闻名。"
-                },
-                {
-                    "word": "harbinger",
-                    "pronounciation": "ˈhɑːrbɪndʒər",
-                    "chineseMeaning": "先驱",
-                    "example": "The first robin is considered a harbinger of spring.",
-                    "chineseOfExample": "第一只知更鸟被认为是春天的先驱。"
-                },
-                {
-                    "word": "iconoclast",
-                    "pronounciation": "aɪˈkɑːnəklæst",
-                    "chineseMeaning": "反传统者",
-                    "example": "The artist was an iconoclast who rejected conventional styles.",
-                    "chineseOfExample": "这位艺术家是一位反传统者，拒绝了传统风格。"
-                },
-                {
-                    "word": "jubilation",
-                    "pronounciation": "ˌdʒuːbɪˈleɪʃn",
-                    "chineseMeaning": "欢庆",
-                    "example": "The streets were filled with jubilation after the victory.",
-                    "chineseOfExample": "胜利之后，街道上充满了欢庆。"
-                },
-                {
-                    "word": "kaleidoscopic",
-                    "pronounciation": "kəˌlaɪdəˈskɑːpɪk",
-                    "chineseMeaning": "千变万化的",
-                    "example": "The festival showcased a kaleidoscopic array of cultural performances.",
-                    "chineseOfExample": "节日展示了五花八门的文化表演。"
-                },
-                {
-                    "word": "laconic",
-                    "pronounciation": "ləˈkɑːnɪk",
-                    "chineseMeaning": "简洁的",
-                    "example": "His laconic reply left everyone wanting more details.",
-                    "chineseOfExample": "他简洁的回复让每个人都想了解更多细节。"
-                },
-                {
-                    "word": "mendacious",
-                    "pronounciation": "menˈdeɪʃəs",
-                    "chineseMeaning": "说谎的",
-                    "example": "The mendacious advertisement misled consumers.",
-                    "chineseOfExample": "虚假的广告误导了消费者。"
-                },
-                {
-                    "word": "nefarious",
-                    "pronounciation": "nɪˈferiəs",
-                    "chineseMeaning": "邪恶的",
-                    "example": "The novel revolves around a nefarious plot to overthrow the government.",
-                    "chineseOfExample": "这部小说围绕一个推翻政府的邪恶计划展开。"
-                },
-                {
-                    "word": "ostentatious",
-                    "pronounciation": "ˌɑːstənˈteɪʃəs",
-                    "chineseMeaning": "炫耀的",
-                    "example": "Her ostentatious display of wealth made others uncomfortable.",
-                    "chineseOfExample": "她炫耀的财富让其他人感到不舒服。"
-                },
-                {
-                    "word": "vexatious",
-                    "pronounciation": "vekˈseɪʃəs",
-                    "chineseMeaning": "令人烦恼的",
-                    "example": "The vexatious legal proceedings drained their financial resources.",
-                    "chineseOfExample": "令人烦恼的法律程序耗尽了他们的财务资源。"
-                },
-                {
-                    "word": "zeitgeist",
-                    "pronounciation": "ˈzaɪtɡaɪst",
-                    "chineseMeaning": "时代精神",
-                    "example": "The film perfectly captured the zeitgeist of the Roaring Twenties.",
-                    "chineseOfExample": "这部电影完美地捕捉了二十年代的精神。"
-                }
-            ],
+            "time": "2025-04-14",
+            "words": [],
             "phrases": [
                 {
-                    "phrase": "a moot point",
-                    "chineseMeaning": "有争议的问题",
-                    "example": "Whether robots can replace teachers is a moot point among educators.",
-                    "chineseOfExample": "机器人是否能取代教师在教育者中是有争议的问题。"
+                    "phrase": "at one's wits' end",
+                    "chineseMeaning": "智穷计尽",
+                    "example": "After trying all possible solutions, the engineers were at their wits' end.",
+                    "chineseOfExample": "尝试了所有可能的解决方案后，工程师们已经无计可施。"
                 },
                 {
-                    "phrase": "in dire straits",
-                    "chineseMeaning": "处于困境",
-                    "example": "The tourism industry was in dire straits during the pandemic.",
-                    "chineseOfExample": "在疫情期间，旅游业陷入了困境。"
+                    "phrase": "beat the clock",
+                    "chineseMeaning": "争分夺秒",
+                    "example": "The medical team worked tirelessly to beat the clock and save the patient.",
+                    "chineseOfExample": "医疗团队争分夺秒地工作以挽救病人。"
                 },
                 {
-                    "phrase": "play fast and loose",
-                    "chineseMeaning": "不守规则",
-                    "example": "Companies that play fast and loose with regulations often face consequences.",
-                    "chineseOfExample": "那些不遵守规定的公司往往会面临后果。"
+                    "phrase": "call the shots",
+                    "chineseMeaning": "发号施令",
+                    "example": "In this company, it's the CEO who ultimately calls the shots.",
+                    "chineseOfExample": "在这家公司，最终发号施令的是CEO。"
                 },
                 {
-                    "phrase": "the crux of the matter",
-                    "chineseMeaning": "问题的关键",
-                    "example": "Let's get to the crux of the matter - who will fund this project?",
-                    "chineseOfExample": "让我们直奔主题——谁将资助这个项目？"
+                    "phrase": "down to the wire",
+                    "chineseMeaning": "最后一刻",
+                    "example": "The negotiation went down to the wire before an agreement was reached.",
+                    "chineseOfExample": "谈判直到最后一刻才达成协议。"
                 },
                 {
-                    "phrase": "throw caution to the wind",
-                    "chineseMeaning": "不顾一切",
-                    "example": "She decided to throw caution to the wind and start her own business.",
-                    "chineseOfExample": "她决定不顾一切，自己创业。"
-                }
-            ]
-        },
-        {
-            "time": "2025-04-03",
-            "words": [
-                {
-                    "word": "abrogate",
-                    "pronounciation": "ˈæbrəɡeɪt",
-                    "chineseMeaning": "废除，取消",
-                    "example": "The government decided to abrogate the outdated law.",
-                    "chineseOfExample": "政府决定废除过时的法律。"
+                    "phrase": "eat one's words",
+                    "chineseMeaning": "收回前言",
+                    "example": "He had to eat his words after the project succeeded against all expectations.",
+                    "chineseOfExample": "在项目意外成功后，他不得不收回之前的言论。"
                 },
                 {
-                    "word": "cogent",
-                    "pronounciation": "ˈkoʊdʒənt",
-                    "chineseMeaning": "有说服力的",
-                    "example": "Her cogent argument convinced the jury.",
-                    "chineseOfExample": "她的有力论据说服了陪审团。"
+                    "phrase": "face the music",
+                    "chineseMeaning": "承担后果",
+                    "example": "It's time for the corrupt officials to face the music for their actions.",
+                    "chineseOfExample": "现在是贪官们为自己的行为承担后果的时候了。"
                 },
                 {
-                    "word": "didactic",
-                    "pronounciation": "daɪˈdæktɪk",
-                    "chineseMeaning": "说教的",
-                    "example": "The movie had a didactic tone that some viewers found annoying.",
-                    "chineseOfExample": "这部电影有一种说教的语气，让一些观众感到厌烦。"
+                    "phrase": "get the ball rolling",
+                    "chineseMeaning": "启动项目",
+                    "example": "Let's get the ball rolling by assigning initial tasks to team members.",
+                    "chineseOfExample": "让我们通过分配初始任务给团队成员来启动项目。"
                 },
-                {
-                    "word": "egregious",
-                    "pronounciation": "ɪˈɡriːdʒəs",
-                    "chineseMeaning": "明显的，恶劣的",
-                    "example": "His egregious behavior led to his immediate dismissal.",
-                    "chineseOfExample": "他的恶劣行为导致他立即被解雇。"
-                },
-                {
-                    "word": "fervid",
-                    "pronounciation": "ˈfɜːrvɪd",
-                    "chineseMeaning": "热情的",
-                    "example": "She spoke with fervid enthusiasm about her new project.",
-                    "chineseOfExample": "她热情地谈论她的新项目。"
-                },
-                {
-                    "word": "garrulous",
-                    "pronounciation": "ˈɡærələs",
-                    "chineseMeaning": "多话的",
-                    "example": "The garrulous old man entertained us with stories all evening.",
-                    "chineseOfExample": "那个多话的老头用故事逗我们开心了一整晚。"
-                },
-                {
-                    "word": "harangue",
-                    "pronounciation": "həˈræŋ",
-                    "chineseMeaning": "长篇大论",
-                    "example": "The politician delivered a harangue on the importance of education.",
-                    "chineseOfExample": "那位政客发表了一篇关于教育重要性的长篇大论。"
-                },
-                {
-                    "word": "iconoclastic",
-                    "pronounciation": "aɪˌkɑːnəˈklæstɪk",
-                    "chineseMeaning": "破坏传统的",
-                    "example": "His iconoclastic views challenged the status quo.",
-                    "chineseOfExample": "他的反传统观点挑战了现状。"
-                },
-                {
-                    "word": "jettison",
-                    "pronounciation": "ˈdʒɛtɪsən",
-                    "chineseMeaning": "抛弃",
-                    "example": "They had to jettison some cargo to lighten the ship.",
-                    "chineseOfExample": "他们不得不抛弃一些货物以减轻船的重量。"
-                },
-                {
-                    "word": "kudos",
-                    "pronounciation": "ˈkuːdoʊz",
-                    "chineseMeaning": "赞誉",
-                    "example": "The scientist received kudos for her groundbreaking research.",
-                    "chineseOfExample": "这位科学家因她的开创性研究而受到赞誉。"
-                },
-                {
-                    "word": "laconically",
-                    "pronounciation": "ləˈkɑːnɪkli",
-                    "chineseMeaning": "简洁地",
-                    "example": "He answered laconically when asked about his plans.",
-                    "chineseOfExample": "当被问及他的计划时，他简洁地回答了。"
-                },
-                {
-                    "word": "magnanimous",
-                    "pronounciation": "mæɡˈnænɪməs",
-                    "chineseMeaning": "宽宏大量的",
-                    "example": "The magnanimous donor provided scholarships for many students.",
-                    "chineseOfExample": "这位慷慨的捐赠者为许多学生提供了奖学金。"
-                },
-                {
-                    "word": "neophyte",
-                    "pronounciation": "ˈniːəfaɪt",
-                    "chineseMeaning": "新手",
-                    "example": "As a neophyte in the field, she had much to learn.",
-                    "chineseOfExample": "作为该领域的新手，她还有很多东西要学。"
-                },
-                {
-                    "word": "obfuscate",
-                    "pronounciation": "ˈɑːbfʌskeɪt",
-                    "chineseMeaning": "使困惑",
-                    "example": "The complex jargon served to obfuscate rather than clarify the issue.",
-                    "chineseOfExample": "复杂的行话使问题更加困惑而不是澄清。"
-                },
-                {
-                    "word": "venerate",
-                    "pronounciation": "ˈvɛnəreɪt",
-                    "chineseMeaning": "尊敬",
-                    "example": "People venerate him as a great leader.",
-                    "chineseOfExample": "人们尊敬他为伟大的领导者。"
-                }
-            ],
-            "phrases": [
-                {
-                    "phrase": "at loggerheads",
-                    "chineseMeaning": "意见不合",
-                    "example": "The two politicians were at loggerheads over the tax reform proposal.",
-                    "chineseOfExample": "两位政客在税收改革提案上意见不合。"
-                },
-                {
-                    "phrase": "in the offing",
-                    "chineseMeaning": "即将发生",
-                    "example": "A major breakthrough in renewable energy is in the offing.",
-                    "chineseOfExample": "可再生能源领域的一个重大突破即将发生。"
-                },
-                {
-                    "phrase": "pull someone's leg",
-                    "chineseMeaning": "开玩笑",
-                    "example": "I was just pulling your leg when I said I won the lottery.",
-                    "chineseOfExample": "我只是开玩笑说中了彩票。"
-                },
-                {
-                    "phrase": "the last straw",
-                    "chineseMeaning": "压垮骆驼的最后一根稻草",
-                    "example": "Losing my keys was the last straw after such a stressful day.",
-                    "chineseOfExample": "在如此紧张的一天之后，丢钥匙成了压垮骆驼的最后一根稻草。"
-                },
-                {
-                    "phrase": "wear one's heart on one's sleeve",
-                    "chineseMeaning": "感情外露",
-                    "example": "He wears his heart on his sleeve and shows his emotions openly.",
-                    "chineseOfExample": "他感情外露，公开表达自己的情感。"
-                }
-            ]
-        },
-        {
-            "time": "2025-04-04",
-            "words": [
-                {
-                    "word": "perfunctory",
-                    "pronounciation": "pərˈfʌŋktəri",
-                    "chineseMeaning": "敷衍的",
-                    "example": "He gave a perfunctory glance at the report before signing.",
-                    "chineseOfExample": "他在签字前敷衍地扫了一眼报告。"
-                },
-                {
-                    "word": "quintessential",
-                    "pronounciation": "ˌkwɪntɪˈsenʃl",
-                    "chineseMeaning": "典型的",
-                    "example": "The novel is considered the quintessential work of postmodernism.",
-                    "chineseOfExample": "这部小说被认为是后现代主义的典型作品。"
-                },
-                {
-                    "word": "recalcitrant",
-                    "pronounciation": "rɪˈkælsɪtrənt",
-                    "chineseMeaning": "顽抗的",
-                    "example": "The recalcitrant student refused to follow instructions.",
-                    "chineseOfExample": "这个顽抗的学生拒绝听从指示。"
-                },
-                {
-                    "word": "sycophant",
-                    "pronounciation": "ˈsɪkəfænt",
-                    "chineseMeaning": "谄媚者",
-                    "example": "The leader was surrounded by sycophants who praised his every move.",
-                    "chineseOfExample": "这位领导者被阿谀奉承者包围，他们赞美他的每一个举动。"
-                },
-                {
-                    "word": "taciturn",
-                    "pronounciation": "ˈtæsɪtɜːrn",
-                    "chineseMeaning": "沉默寡言的",
-                    "example": "The taciturn old man rarely spoke to his neighbors.",
-                    "chineseOfExample": "这位沉默寡言的老人很少和邻居说话。"
-                },
-                {
-                    "word": "ubiquitous",
-                    "pronounciation": "juːˈbɪkwɪtəs",
-                    "chineseMeaning": "普遍存在的",
-                    "example": "Smartphones have become ubiquitous in modern society.",
-                    "chineseOfExample": "智能手机在现代社会已变得无处不在。"
-                },
-                {
-                    "word": "vacillate",
-                    "pronounciation": "ˈvæsəleɪt",
-                    "chineseMeaning": "犹豫不决",
-                    "example": "She vacillated between accepting the job offer or going back to school.",
-                    "chineseOfExample": "她在接受工作机会和重返校园之间犹豫不决。"
-                },
-                {
-                    "word": "wanton",
-                    "pronounciation": "ˈwɑːntən",
-                    "chineseMeaning": "肆意的",
-                    "example": "The wanton destruction of historical sites angered the public.",
-                    "chineseOfExample": "对历史遗址的肆意破坏激怒了公众。"
-                },
-                {
-                    "word": "xenophobia",
-                    "pronounciation": "ˌzenəˈfoʊbiə",
-                    "chineseMeaning": "仇外心理",
-                    "example": "The government condemned acts of xenophobia against foreign workers.",
-                    "chineseOfExample": "政府谴责针对外籍工人的仇外行为。"
-                },
-                {
-                    "word": "zealot",
-                    "pronounciation": "ˈzelət",
-                    "chineseMeaning": "狂热者",
-                    "example": "The religious zealot refused to tolerate other beliefs.",
-                    "chineseOfExample": "这位宗教狂热者拒绝容忍其他信仰。"
-                }
-            ],
-            "phrases": [
-                {
-                    "phrase": "bite the bullet",
-                    "chineseMeaning": "硬着头皮做",
-                    "example": "We'll have to bite the bullet and make the necessary budget cuts.",
-                    "chineseOfExample": "我们不得不硬着头皮进行必要的预算削减。"
-                },
-                {
-                    "phrase": "cut the mustard",
-                    "chineseMeaning": "符合标准",
-                    "example": "The new employee just isn't cutting the mustard.",
-                    "chineseOfExample": "新员工的表现不符合要求。"
-                },
-                {
-                    "phrase": "elephant in the room",
-                    "chineseMeaning": "明显问题",
-                    "example": "The company's financial crisis was the elephant in the room during the meeting.",
-                    "chineseOfExample": "公司的财务危机是会议上避而不谈的明显问题。"
-                },
-                {
-                    "phrase": "fly on the wall",
-                    "chineseMeaning": "旁观者",
-                    "example": "I'd love to be a fly on the wall during their private conversation.",
-                    "chineseOfExample": "我真想成为他们私下谈话的旁观者。"
-                },
-                {
-                    "phrase": "get cold feet",
-                    "chineseMeaning": "临阵退缩",
-                    "example": "He got cold feet at the last moment and canceled the deal.",
-                    "chineseOfExample": "他在最后一刻临阵退缩，取消了交易。"
-                }
-            ]
-        },
-        {
-            "time": "2025-04-05",
-            "words": [
-                {
-                    "word": "obsequious",
-                    "pronounciation": "əbˈsiːkwiəs",
-                    "chineseMeaning": "谄媚的",
-                    "example": "The obsequious waiter hovered around the VIP table.",
-                    "chineseOfExample": "谄媚的服务员在贵宾桌旁徘徊。"
-                },
-                {
-                    "word": "pragmatic",
-                    "pronounciation": "præɡˈmætɪk",
-                    "chineseMeaning": "务实的",
-                    "example": "We need a pragmatic approach to solve this problem.",
-                    "chineseOfExample": "我们需要务实的方案来解决这个问题。"
-                },
-                {
-                    "word": "quixotic",
-                    "pronounciation": "kwɪkˈsɑːtɪk",
-                    "chineseMeaning": "不切实际的",
-                    "example": "His quixotic plan to end poverty was met with skepticism.",
-                    "chineseOfExample": "他终结贫困的不切实际计划遭到质疑。"
-                },
-                {
-                    "word": "relegate",
-                    "pronounciation": "ˈrelɪɡeɪt",
-                    "chineseMeaning": "降级",
-                    "example": "The team was relegated to a lower division.",
-                    "chineseOfExample": "该队被降级到低级别联赛。"
-                },
-                {
-                    "word": "sanguine",
-                    "pronounciation": "ˈsæŋɡwɪn",
-                    "chineseMeaning": "乐观的",
-                    "example": "She remained sanguine despite the setbacks.",
-                    "chineseOfExample": "尽管遇到挫折，她仍然保持乐观。"
-                },
-                {
-                    "word": "trepidation",
-                    "pronounciation": "ˌtrepɪˈdeɪʃn",
-                    "chineseMeaning": "惶恐",
-                    "example": "He approached the exam with trepidation.",
-                    "chineseOfExample": "他怀着惶恐的心情参加考试。"
-                },
-                {
-                    "word": "ubiquity",
-                    "pronounciation": "juːˈbɪkwəti",
-                    "chineseMeaning": "普遍存在",
-                    "example": "The ubiquity of social media has changed communication patterns.",
-                    "chineseOfExample": "社交媒体的普遍存在改变了沟通模式。"
-                },
-                {
-                    "word": "vociferous",
-                    "pronounciation": "vəˈsɪfərəs",
-                    "chineseMeaning": "大声喧哗的",
-                    "example": "Vociferous protesters gathered outside the parliament.",
-                    "chineseOfExample": "喧闹的抗议者聚集在议会外。"
-                },
-                {
-                    "word": "whet",
-                    "pronounciation": "wet",
-                    "chineseMeaning": "刺激",
-                    "example": "The trailer whetted our appetite for the movie.",
-                    "chineseOfExample": "预告片激起了我们对这部电影的期待。"
-                },
-                {
-                    "word": "zeitgeber",
-                    "pronounciation": "ˈtsaɪtɡeɪbər",
-                    "chineseMeaning": "生物钟调节器",
-                    "example": "Sunlight acts as a powerful zeitgeber for our circadian rhythm.",
-                    "chineseOfExample": "阳光是我们昼夜节律的重要调节器。"
-                }
-            ],
-            "phrases": [
                 {
                     "phrase": "hit the nail on the head",
                     "chineseMeaning": "一针见血",
-                    "example": "Your analysis really hit the nail on the head.",
-                    "chineseOfExample": "你的分析真是一针见血。"
+                    "example": "The analyst hit the nail on the head with her market prediction.",
+                    "chineseOfExample": "分析师对市场的预测一针见血。"
                 },
                 {
-                    "phrase": "jump on the bandwagon",
-                    "chineseMeaning": "跟风",
-                    "example": "Many companies are jumping on the AI bandwagon.",
-                    "chineseOfExample": "许多公司都在跟风人工智能。"
+                    "phrase": "in the same boat",
+                    "chineseMeaning": "处境相同",
+                    "example": "We're all in the same boat when it comes to meeting this tight deadline.",
+                    "chineseOfExample": "在应对这个紧迫的截止日期上，我们的处境都一样。"
+                },
+                {
+                    "phrase": "jump through hoops",
+                    "chineseMeaning": "克服困难",
+                    "example": "Applicants have to jump through many hoops to get this scholarship.",
+                    "chineseOfExample": "申请者需要克服重重困难才能获得这项奖学金。"
+                },
+                {
+                    "phrase": "keep one's head above water",
+                    "chineseMeaning": "勉强维持",
+                    "example": "Many small businesses are struggling to keep their heads above water during the recession.",
+                    "chineseOfExample": "经济衰退期间许多小企业都在勉强维持。"
                 },
                 {
                     "phrase": "let the cat out of the bag",
                     "chineseMeaning": "泄露秘密",
-                    "example": "She accidentally let the cat out of the bag about the surprise party.",
-                    "chineseOfExample": "她不小心泄露了惊喜派对的秘密。"
+                    "example": "Someone let the cat out of the bag about the surprise party.",
+                    "chineseOfExample": "有人泄露了惊喜派对的秘密。"
                 },
                 {
-                    "phrase": "once in a blue moon",
-                    "chineseMeaning": "千载难逢",
-                    "example": "Such opportunities come once in a blue moon.",
-                    "chineseOfExample": "这样的机会千载难逢。"
+                    "phrase": "make ends meet",
+                    "chineseMeaning": "收支平衡",
+                    "example": "Many families work multiple jobs just to make ends meet.",
+                    "chineseOfExample": "许多家庭打多份工只为维持收支平衡。"
+                },
+                {
+                    "phrase": "not one's cup of tea",
+                    "chineseMeaning": "不合胃口",
+                    "example": "Extreme sports are not everyone's cup of tea.",
+                    "chineseOfExample": "极限运动并不适合所有人。"
+                },
+                {
+                    "phrase": "on thin ice",
+                    "chineseMeaning": "如履薄冰",
+                    "example": "The company is on thin ice with its environmental violations.",
+                    "chineseOfExample": "该公司因环境违规问题正面临危机。"
+                },
+                {
+                    "phrase": "pull one's weight",
+                    "chineseMeaning": "尽职尽责",
+                    "example": "Every team member must pull their weight to ensure project success.",
+                    "chineseOfExample": "每个团队成员都必须尽职尽责以确保项目成功。"
+                },
+                {
+                    "phrase": "raise the bar",
+                    "chineseMeaning": "提高标准",
+                    "example": "The new product has raised the bar for competitors in the industry.",
+                    "chineseOfExample": "这款新产品提高了行业竞争对手的标准。"
                 },
                 {
                     "phrase": "see eye to eye",
                     "chineseMeaning": "意见一致",
-                    "example": "The committee members finally saw eye to eye on the proposal.",
-                    "chineseOfExample": "委员会成员最终对该提案达成一致。"
+                    "example": "The board members finally saw eye to eye on the merger plan.",
+                    "chineseOfExample": "董事会成员最终对合并计划达成一致意见。"
+                },
+                {
+                    "phrase": "take with a grain of salt",
+                    "chineseMeaning": "有所保留",
+                    "example": "His account of the incident should be taken with a grain of salt.",
+                    "chineseOfExample": "他对事件的描述应有所保留地看待。"
+                },
+                {
+                    "phrase": "up in the air",
+                    "chineseMeaning": "悬而未决",
+                    "example": "The launch date is still up in the air due to technical issues.",
+                    "chineseOfExample": "由于技术问题，发布日期仍然悬而未决。"
                 }
             ]
         },
         {
-            "time": "2025-04-06",
-            "words": [
-                {
-                    "word": "acrimonious",
-                    "pronounciation": "ˌækrɪˈmoʊniəs",
-                    "chineseMeaning": "尖刻的",
-                    "example": "The acrimonious debate lasted for hours.",
-                    "chineseOfExample": "激烈的辩论持续了数小时。"
-                },
-                {
-                    "word": "belligerent",
-                    "pronounciation": "bəˈlɪdʒərənt",
-                    "chineseMeaning": "好战的",
-                    "example": "His belligerent attitude escalated the conflict.",
-                    "chineseOfExample": "他好战的态度加剧了冲突。"
-                },
-                {
-                    "word": "circumspect",
-                    "pronounciation": "ˈsɜːrkəmspekt",
-                    "chineseMeaning": "谨慎的",
-                    "example": "Investors should be circumspect in volatile markets.",
-                    "chineseOfExample": "投资者在动荡市场中应保持谨慎。"
-                },
-                {
-                    "word": "demagogue",
-                    "pronounciation": "ˈdeməɡɑːɡ",
-                    "chineseMeaning": "煽动者",
-                    "example": "The political demagogue manipulated public fears.",
-                    "chineseOfExample": "这个政治煽动者操纵公众的恐惧。"
-                },
-                {
-                    "word": "equivocate",
-                    "pronounciation": "ɪˈkwɪvəkeɪt",
-                    "chineseMeaning": "含糊其辞",
-                    "example": "Politicians often equivocate when asked tough questions.",
-                    "chineseOfExample": "政客在被问及尖锐问题时常常含糊其辞。"
-                },
-                {
-                    "word": "flabbergasted",
-                    "pronounciation": "ˈflæbərɡæstɪd",
-                    "chineseMeaning": "目瞪口呆的",
-                    "example": "We were flabbergasted by the election results.",
-                    "chineseOfExample": "我们对选举结果感到目瞪口呆。"
-                },
-                {
-                    "word": "grandiose",
-                    "pronounciation": "ˈɡrændioʊs",
-                    "chineseMeaning": "浮夸的",
-                    "example": "The dictator had grandiose plans for the capital city.",
-                    "chineseOfExample": "独裁者对首都制定了浮夸的计划。"
-                },
-                {
-                    "word": "histrionic",
-                    "pronounciation": "ˌhɪstriˈɑːnɪk",
-                    "chineseMeaning": "戏剧化的",
-                    "example": "Her histrionic reaction drew unnecessary attention.",
-                    "chineseOfExample": "她戏剧化的反应引起了不必要的关注。"
-                },
-                {
-                    "word": "idiosyncrasy",
-                    "pronounciation": "ˌɪdiəˈsɪŋkrəsi",
-                    "chineseMeaning": "特质",
-                    "example": "Chewing pens was one of his peculiar idiosyncrasies.",
-                    "chineseOfExample": "咬笔是他独特的个人习惯之一。"
-                },
-                {
-                    "word": "jejune",
-                    "pronounciation": "dʒɪˈdʒuːn",
-                    "chineseMeaning": "幼稚的",
-                    "example": "The professor dismissed the student's jejune arguments.",
-                    "chineseOfExample": "教授驳回了学生幼稚的论点。"
-                }
-            ],
+            "time": "2025-04-15",
+            "words": [],
             "phrases": [
                 {
-                    "phrase": "take with a grain of salt",
-                    "chineseMeaning": "持保留态度",
-                    "example": "You should take his promises with a grain of salt.",
-                    "chineseOfExample": "你应该对他的承诺持保留态度。"
+                    "phrase": "back to square one",
+                    "chineseMeaning": "回到起点",
+                    "example": "The system crash means we're back to square one with the data analysis.",
+                    "chineseOfExample": "系统崩溃意味着我们的数据分析要重头再来。"
+                },
+                {
+                    "phrase": "burn the midnight oil",
+                    "chineseMeaning": "挑灯夜战",
+                    "example": "Students often burn the midnight oil before final exams.",
+                    "chineseOfExample": "学生们常在期末考试前挑灯夜战。"
+                },
+                {
+                    "phrase": "cut no ice",
+                    "chineseMeaning": "不起作用",
+                    "example": "His excuses cut no ice with the strict professor.",
+                    "chineseOfExample": "他的借口对严格的教授不起作用。"
+                },
+                {
+                    "phrase": "drive a hard bargain",
+                    "chineseMeaning": "讨价还价",
+                    "example": "The negotiator drove a hard bargain during the merger talks.",
+                    "chineseOfExample": "谈判代表在合并谈判中极力讨价还价。"
+                },
+                {
+                    "phrase": "eleventh-hour decision",
+                    "chineseMeaning": "最后时刻决定",
+                    "example": "The committee made an eleventh-hour decision to postpone the event.",
+                    "chineseOfExample": "委员会在最后时刻决定推迟活动。"
+                },
+                {
+                    "phrase": "fall on deaf ears",
+                    "chineseMeaning": "未被听取",
+                    "example": "Their safety warnings fell on deaf ears.",
+                    "chineseOfExample": "他们的安全警告未被重视。"
+                },
+                {
+                    "phrase": "get the hang of",
+                    "chineseMeaning": "掌握诀窍",
+                    "example": "It took me weeks to get the hang of the new software.",
+                    "chineseOfExample": "我花了几周才掌握新软件的用法。"
+                },
+                {
+                    "phrase": "have a finger in every pie",
+                    "chineseMeaning": "多方参与",
+                    "example": "The consultant seems to have a finger in every pie of the company.",
+                    "chineseOfExample": "这位顾问似乎参与了公司的各个项目。"
+                },
+                {
+                    "phrase": "in the long run",
+                    "chineseMeaning": "长远来看",
+                    "example": "Investing in education pays off in the long run.",
+                    "chineseOfExample": "从长远来看，教育投资会有回报。"
+                },
+                {
+                    "phrase": "jump the gun",
+                    "chineseMeaning": "过早行动",
+                    "example": "Don't jump the gun before the official announcement.",
+                    "chineseOfExample": "在官方宣布前不要过早行动。"
+                },
+                {
+                    "phrase": "keep at bay",
+                    "chineseMeaning": "控制住",
+                    "example": "Antibiotics help keep infections at bay.",
+                    "chineseOfExample": "抗生素有助于控制感染。"
+                },
+                {
+                    "phrase": "leave no stone unturned",
+                    "chineseMeaning": "千方百计",
+                    "example": "The detective left no stone unturned in the investigation.",
+                    "chineseOfExample": "侦探在调查中千方百计寻找线索。"
+                },
+                {
+                    "phrase": "make a clean breast of",
+                    "chineseMeaning": "坦白承认",
+                    "example": "He decided to make a clean breast of his mistakes.",
+                    "chineseOfExample": "他决定坦白承认自己的错误。"
+                },
+                {
+                    "phrase": "nip in the bud",
+                    "chineseMeaning": "防患未然",
+                    "example": "The security issue was nipped in the bud before launch.",
+                    "chineseOfExample": "安全问题在发布前就被及时制止了。"
+                },
+                {
+                    "phrase": "off the beaten track",
+                    "chineseMeaning": "非主流的",
+                    "example": "The researcher explored some off the beaten track theories.",
+                    "chineseOfExample": "研究者探索了一些非主流理论。"
+                },
+                {
+                    "phrase": "play second fiddle",
+                    "chineseMeaning": "充当配角",
+                    "example": "She refused to play second fiddle to her colleague.",
+                    "chineseOfExample": "她拒绝给同事当配角。"
+                },
+                {
+                    "phrase": "rain on someone's parade",
+                    "chineseMeaning": "扫兴",
+                    "example": "Don't rain on my parade with your negative comments.",
+                    "chineseOfExample": "别用你的负面评价来扫我的兴。"
+                },
+                {
+                    "phrase": "sail through",
+                    "chineseMeaning": "轻松通过",
+                    "example": "She sailed through the certification exam with ease.",
+                    "chineseOfExample": "她轻松通过了资格认证考试。"
+                },
+                {
+                    "phrase": "take the bull by the horns",
+                    "chineseMeaning": "迎难而上",
+                    "example": "It's time to take the bull by the horns and solve this problem.",
+                    "chineseOfExample": "是时候迎难而上解决这个问题了。"
+                },
+                {
+                    "phrase": "up the ante",
+                    "chineseMeaning": "加大赌注",
+                    "example": "The company upped the ante by doubling its R&D investment.",
+                    "chineseOfExample": "该公司通过加倍研发投资来提升竞争力。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-16",
+            "words": [],
+            "phrases": [
+                {
+                    "phrase": "a stitch in time",
+                    "chineseMeaning": "及时处理",
+                    "example": "Regular maintenance is a stitch in time that prevents major breakdowns.",
+                    "chineseOfExample": "定期维护是防止重大故障的及时措施。"
+                },
+                {
+                    "phrase": "bark up the wrong tree",
+                    "chineseMeaning": "错怪对象",
+                    "example": "Investigators realized they were barking up the wrong tree with their initial theory.",
+                    "chineseOfExample": "调查人员意识到他们最初的理论方向错了。"
+                },
+                {
+                    "phrase": "come full circle",
+                    "chineseMeaning": "回到原点",
+                    "example": "Fashion trends often come full circle after decades.",
+                    "chineseOfExample": "时尚潮流经常在数十年后回归。"
+                },
+                {
+                    "phrase": "dot the i's and cross the t's",
+                    "chineseMeaning": "完善细节",
+                    "example": "Before submission, make sure to dot the i's and cross the t's in the contract.",
+                    "chineseOfExample": "提交前请确保合同细节完善无误。"
+                },
+                {
+                    "phrase": "easier said than done",
+                    "chineseMeaning": "说来容易做来难",
+                    "example": "Achieving carbon neutrality is easier said than done.",
+                    "chineseOfExample": "实现碳中和是知易行难。"
+                },
+                {
+                    "phrase": "fly in the face of",
+                    "chineseMeaning": "公然违抗",
+                    "example": "The decision flies in the face of international regulations.",
+                    "chineseOfExample": "该决定公然违反国际法规。"
+                },
+                {
+                    "phrase": "get to grips with",
+                    "chineseMeaning": "认真处理",
+                    "example": "The new manager needs to get to grips with the accounting system.",
+                    "chineseOfExample": "新经理需要认真掌握财务系统。"
+                },
+                {
+                    "phrase": "have an axe to grind",
+                    "chineseMeaning": "别有用心",
+                    "example": "Critics claim the report's authors have an axe to grind.",
+                    "chineseOfExample": "批评者称报告作者别有用心。"
+                },
+                {
+                    "phrase": "in the offing",
+                    "chineseMeaning": "即将发生",
+                    "example": "Major policy changes are in the offing for the healthcare sector.",
+                    "chineseOfExample": "医疗领域即将迎来重大政策调整。"
+                },
+                {
+                    "phrase": "keep one's powder dry",
+                    "chineseMeaning": "蓄势待发",
+                    "example": "Investors are keeping their powder dry during market volatility.",
+                    "chineseOfExample": "投资者在市场波动期间保持观望。"
+                },
+                {
+                    "phrase": "let sleeping dogs lie",
+                    "chineseMeaning": "勿惹是非",
+                    "example": "Sometimes it's better to let sleeping dogs lie in delicate situations.",
+                    "chineseOfExample": "在微妙局势下有时最好别惹是非。"
+                },
+                {
+                    "phrase": "move the goalposts",
+                    "chineseMeaning": "改变规则",
+                    "example": "It's unfair to move the goalposts halfway through the project.",
+                    "chineseOfExample": "在项目中途改变规则是不公平的。"
+                },
+                {
+                    "phrase": "not mince words",
+                    "chineseMeaning": "直言不讳",
+                    "example": "The CEO did not mince words when addressing the financial crisis.",
+                    "chineseOfExample": "CEO在谈及财务危机时直言不讳。"
+                },
+                {
+                    "phrase": "on the back burner",
+                    "chineseMeaning": "暂缓处理",
+                    "example": "The expansion plan has been put on the back burner due to funding issues.",
+                    "chineseOfExample": "由于资金问题，扩张计划暂被搁置。"
+                },
+                {
+                    "phrase": "pass the buck",
+                    "chineseMeaning": "推卸责任",
+                    "example": "Department heads shouldn't pass the buck when problems arise.",
+                    "chineseOfExample": "出现问题时部门主管不应推卸责任。"
+                },
+                {
+                    "phrase": "ring-fenced funds",
+                    "chineseMeaning": "专项基金",
+                    "example": "The government allocated ring-fenced funds for environmental protection.",
+                    "chineseOfExample": "政府为环境保护划拨了专项基金。"
+                },
+                {
+                    "phrase": "shed light on",
+                    "chineseMeaning": "阐明",
+                    "example": "The discovery sheds new light on ancient trade routes.",
+                    "chineseOfExample": "这一发现为古代贸易路线提供了新见解。"
+                },
+                {
+                    "phrase": "take stock of",
+                    "chineseMeaning": "评估现状",
+                    "example": "It's time to take stock of our progress this quarter.",
+                    "chineseOfExample": "是时候评估本季度的进展了。"
+                },
+                {
+                    "phrase": "up against the wall",
+                    "chineseMeaning": "陷入困境",
+                    "example": "Startups often find themselves up against the wall financially.",
+                    "chineseOfExample": "初创企业常陷入财务困境。"
+                },
+                {
+                    "phrase": "zero in on",
+                    "chineseMeaning": "集中关注",
+                    "example": "Researchers are zeroing in on the genetic factors of the disease.",
+                    "chineseOfExample": "研究人员正集中研究该疾病的遗传因素。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-17",
+            "words": [],
+            "phrases": [
+                {
+                    "phrase": "a far cry from",
+                    "chineseMeaning": "天壤之别",
+                    "example": "The final product was a far cry from the initial proposal.",
+                    "chineseOfExample": "最终产品与最初方案天差地别。"
+                },
+                {
+                    "phrase": "bite off more than one can chew",
+                    "chineseMeaning": "不自量力",
+                    "example": "Taking on three major projects simultaneously is biting off more than he can chew.",
+                    "chineseOfExample": "同时接手三个重大项目实属不自量力。"
+                },
+                {
+                    "phrase": "cut the Gordian knot",
+                    "chineseMeaning": "快刀斩乱麻",
+                    "example": "The new CEO cut the Gordian knot by restructuring the company.",
+                    "chineseOfExample": "新任CEO通过重组公司快刀斩乱麻解决问题。"
+                },
+                {
+                    "phrase": "draw a line in the sand",
+                    "chineseMeaning": "划清界限",
+                    "example": "The government drew a line in the sand regarding tax evasion.",
+                    "chineseOfExample": "政府在逃税问题上划清了界限。"
+                },
+                {
+                    "phrase": "every cloud has a silver lining",
+                    "chineseMeaning": "黑暗中总有一线光明",
+                    "example": "The failed experiment taught us valuable lessons - every cloud has a silver lining.",
+                    "chineseOfExample": "失败的实验让我们学到宝贵经验——黑暗中总有一线光明。"
+                },
+                {
+                    "phrase": "fish in troubled waters",
+                    "chineseMeaning": "浑水摸鱼",
+                    "example": "Some companies try to fish in troubled waters during economic crises.",
+                    "chineseOfExample": "有些公司试图在经济危机中浑水摸鱼。"
+                },
+                {
+                    "phrase": "get the short end of the stick",
+                    "chineseMeaning": "吃亏",
+                    "example": "Small suppliers often get the short end of the stick in negotiations.",
+                    "chineseOfExample": "小型供应商在谈判中常处于劣势。"
+                },
+                {
+                    "phrase": "have irons in the fire",
+                    "chineseMeaning": "多手准备",
+                    "example": "Smart investors always have multiple irons in the fire.",
+                    "chineseOfExample": "精明的投资者总会做多手准备。"
+                },
+                {
+                    "phrase": "in the pipeline",
+                    "chineseMeaning": "筹备中",
+                    "example": "New safety regulations are in the pipeline for the industry.",
+                    "chineseOfExample": "该行业的新安全法规正在制定中。"
+                },
+                {
+                    "phrase": "judge a book by its cover",
+                    "chineseMeaning": "以貌取人",
+                    "example": "The plain-looking device proved powerful - don't judge a book by its cover.",
+                    "chineseOfExample": "这个外观普通的设备性能强大——切勿以貌取物。"
+                },
+                {
+                    "phrase": "kill two birds with one stone",
+                    "chineseMeaning": "一箭双雕",
+                    "example": "The initiative aims to kill two birds with one stone by boosting both economy and ecology.",
+                    "chineseOfExample": "该举措旨在实现经济发展与生态保护的一箭双雕。"
+                },
+                {
+                    "phrase": "leave someone in the lurch",
+                    "chineseMeaning": "弃之不顾",
+                    "example": "The contractor left us in the lurch at the critical stage.",
+                    "chineseOfExample": "承包商在关键时刻弃我们于不顾。"
+                },
+                {
+                    "phrase": "make headway",
+                    "chineseMeaning": "取得进展",
+                    "example": "Scientists are making headway in cancer vaccine research.",
+                    "chineseOfExample": "科学家在癌症疫苗研究中取得进展。"
+                },
+                {
+                    "phrase": "not cut out for",
+                    "chineseMeaning": "不适合",
+                    "example": "He realized he wasn't cut out for corporate life.",
+                    "chineseOfExample": "他意识到自己不适合企业生活。"
+                },
+                {
+                    "phrase": "on the same wavelength",
+                    "chineseMeaning": "志同道合",
+                    "example": "The research team works efficiently because they're on the same wavelength.",
+                    "chineseOfExample": "研究团队因志同道合而高效协作。"
+                },
+                {
+                    "phrase": "pave the way for",
+                    "chineseMeaning": "铺平道路",
+                    "example": "The discovery paves the way for new treatment methods.",
+                    "chineseOfExample": "该发现为新疗法铺平了道路。"
+                },
+                {
+                    "phrase": "read between the lines",
+                    "chineseMeaning": "领会言外之意",
+                    "example": "Diplomats must learn to read between the lines in negotiations.",
+                    "chineseOfExample": "外交官必须学会领会谈判中的弦外之音。"
+                },
+                {
+                    "phrase": "sweep under the carpet",
+                    "chineseMeaning": "掩盖问题",
+                    "example": "The scandal was swept under the carpet for years.",
+                    "chineseOfExample": "这个丑闻被掩盖了多年。"
+                },
+                {
+                    "phrase": "take the wind out of someone's sails",
+                    "chineseMeaning": "挫败锐气",
+                    "example": "The unexpected criticism took the wind out of his sails.",
+                    "chineseOfExample": "突如其来的批评挫了他的锐气。"
                 },
                 {
                     "phrase": "upset the apple cart",
                     "chineseMeaning": "打乱计划",
-                    "example": "The sudden policy change upset the apple cart.",
-                    "chineseOfExample": "突然的政策变化打乱了原有计划。"
+                    "example": "The sudden policy change upset the apple cart of our marketing strategy.",
+                    "chineseOfExample": "政策的突然变动打乱了我们的营销计划。"
+                }
+            ]
+        },
+        {
+            "time": "2025-04-18",
+            "words": [],
+            "phrases": [
+                {
+                    "phrase": "a level playing field",
+                    "chineseMeaning": "公平竞争环境",
+                    "example": "The new regulations ensure a level playing field for all market participants.",
+                    "chineseOfExample": "新法规确保所有市场参与者公平竞争。"
                 },
                 {
-                    "phrase": "vanish into thin air",
-                    "chineseMeaning": "消失无踪",
-                    "example": "The important documents seemed to have vanished into thin air.",
-                    "chineseOfExample": "重要文件似乎消失得无影无踪。"
+                    "phrase": "break new ground",
+                    "chineseMeaning": "开辟新天地",
+                    "example": "The research team broke new ground in nanotechnology applications.",
+                    "chineseOfExample": "研究团队在纳米技术应用领域取得突破。"
                 },
                 {
-                    "phrase": "water under the bridge",
-                    "chineseMeaning": "过去的事",
-                    "example": "Our disagreements are water under the bridge now.",
-                    "chineseOfExample": "我们的分歧已是过去的事了。"
+                    "phrase": "cut both ways",
+                    "chineseMeaning": "利弊共存",
+                    "example": "Technological advancement cuts both ways in environmental protection.",
+                    "chineseOfExample": "技术进步对环境保护有利有弊。"
                 },
                 {
-                    "phrase": "zero in on",
-                    "chineseMeaning": "专注于",
-                    "example": "The detective zeroed in on the key evidence.",
-                    "chineseOfExample": "侦探专注于关键证据。"
+                    "phrase": "drop the ball",
+                    "chineseMeaning": "失职",
+                    "example": "The coordinator dropped the ball on the venue arrangements.",
+                    "chineseOfExample": "协调员在场馆安排上严重失职。"
+                },
+                {
+                    "phrase": "elephant in the room",
+                    "chineseMeaning": "明显问题",
+                    "example": "The budget deficit was the elephant in the room during the meeting.",
+                    "chineseOfExample": "预算赤字是会议上被回避的明显问题。"
+                },
+                {
+                    "phrase": "fit the bill",
+                    "chineseMeaning": "符合要求",
+                    "example": "This candidate perfectly fits the bill for the leadership position.",
+                    "chineseOfExample": "该候选人完全符合领导岗位的要求。"
+                },
+                {
+                    "phrase": "go the extra mile",
+                    "chineseMeaning": "加倍努力",
+                    "example": "The team went the extra mile to meet the client's special requests.",
+                    "chineseOfExample": "团队加倍努力以满足客户的特殊要求。"
+                },
+                {
+                    "phrase": "hit the ground running",
+                    "chineseMeaning": "立即投入",
+                    "example": "The new CEO hit the ground running with bold reforms.",
+                    "chineseOfExample": "新任CEO立即大刀阔斧推进改革。"
+                },
+                {
+                    "phrase": "in the same breath",
+                    "chineseMeaning": "同时提及",
+                    "example": "He praised the progress while criticizing the delays in the same breath.",
+                    "chineseOfExample": "他赞扬进展的同时批评了延误。"
+                },
+                {
+                    "phrase": "jump on the bandwagon",
+                    "chineseMeaning": "跟风",
+                    "example": "Many companies are jumping on the AI bandwagon without proper planning.",
+                    "chineseOfExample": "许多公司没有妥善规划就跟风AI热潮。"
+                },
+                {
+                    "phrase": "keep tabs on",
+                    "chineseMeaning": "密切跟踪",
+                    "example": "Investors should keep tabs on market fluctuations.",
+                    "chineseOfExample": "投资者应密切跟踪市场波动。"
+                },
+                {
+                    "phrase": "lose one's edge",
+                    "chineseMeaning": "失去优势",
+                    "example": "The company is losing its competitive edge in the global market.",
+                    "chineseOfExample": "该公司正在失去全球市场的竞争优势。"
+                },
+                {
+                    "phrase": "make a dent in",
+                    "chineseMeaning": "初步解决",
+                    "example": "The initiative has made a dent in the poverty problem.",
+                    "chineseOfExample": "该举措在解决贫困问题上取得初步成效。"
+                },
+                {
+                    "phrase": "not rocket science",
+                    "chineseMeaning": "并不复杂",
+                    "example": "Basic data analysis is not rocket science with proper training.",
+                    "chineseOfExample": "经过适当培训，基础数据分析并不复杂。"
+                },
+                {
+                    "phrase": "on the drawing board",
+                    "chineseMeaning": "规划阶段",
+                    "example": "The new subway line is still on the drawing board.",
+                    "chineseOfExample": "新地铁线路仍处于规划阶段。"
+                },
+                {
+                    "phrase": "play hardball",
+                    "chineseMeaning": "强硬手段",
+                    "example": "The union decided to play hardball in the negotiations.",
+                    "chineseOfExample": "工会在谈判中决定采取强硬态度。"
+                },
+                {
+                    "phrase": "raise eyebrows",
+                    "chineseMeaning": "引发质疑",
+                    "example": "The sudden policy change raised eyebrows among investors.",
+                    "chineseOfExample": "政策的突然变动引发投资者质疑。"
+                },
+                {
+                    "phrase": "stick to one's guns",
+                    "chineseMeaning": "坚持立场",
+                    "example": "The negotiator stuck to her guns despite pressure.",
+                    "chineseOfExample": "谈判代表顶住压力坚持立场。"
+                },
+                {
+                    "phrase": "think outside the box",
+                    "chineseMeaning": "创新思维",
+                    "example": "We need to think outside the box to solve this dilemma.",
+                    "chineseOfExample": "我们需要创新思维来破解这个困局。"
+                },
+                {
+                    "phrase": "under the radar",
+                    "chineseMeaning": "低调进行",
+                    "example": "The startup operated under the radar for its first two years.",
+                    "chineseOfExample": "这家初创企业前两年一直低调运营。"
                 }
             ]
         }
